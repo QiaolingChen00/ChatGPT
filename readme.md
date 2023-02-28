@@ -1,6 +1,6 @@
 # ChatGPT developed by GPT2 called it CQL_ChatGPT
 
-
+There are two dataset provied,when you use plato dataset, you can talk to plato, when you use shakespear dataset, you can talk to shakespear.
 ## FineTune in GPT2-small using sharkspear acticle:
 ```js
 ---------------
